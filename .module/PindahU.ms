@@ -1,1 +1,1 @@
-mv .module/.remove $cd /usr/bin
+mv lib $cd /usr/bin
